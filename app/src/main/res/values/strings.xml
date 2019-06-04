@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UFRPE_DEINFO</string>
+    <string name="account_name">USUÁRIO</string>
+    <string name="password">SENHA</string>
+    <string name="password_hint">**********</string>
+    <string name="forgot_your_login_info">ESQUECEU SEU LOGIN OU SENHA?</string>
+    <string name="sign_in">ENTRAR</string>
+    <string name="remember_my_password">LEMBRAR DA MINHA SENHA</string>
+    <string name="user_name">NOME DO USUÁRIO</string>
+    <string name="criar_conta">CRIAR CONTA</string>
+    <string name="registroEmp">®copyright 2019 - UCHOA Global IT Services</string>
+    <string name="first_name">PRIMEIRO NOME</string>
+    <string name="last_name">SOBRENOME</string>
+    <string name="email">EMAIL</string>
+    <string name="email_hint">teste@exemplo.com</string>
+    <string name="register">CRIAR CONTA</string>
+    <string name="submeter">ENVIAR</string>
+    <string name="msg_esq_senha">Informe o seu email e clique em enviar para recuperar seu acesso.</string>
+
+    <string name="descricao_gilberto">Possui graduação em Ciência da Computação pela Universidade Federal de Pernambuco (1998), mestrado em Ciência da
+        Computação pela Universidade Federal de Pernambuco (2001) e PhD in Computer Science pela City, University of London (2011)
+        e fez pós-doutorado na The Open University (UK) em 2016. Atualmente é professor adjunto da Universidade Federal Rural
+        de Pernambuco. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, atuando principalmente nos
+        seguintes temas: rastreamento de software, engenharia de requisitos, desenvolvimento de aplicações para dispositivos móveis e
+        desenvolvimentos de aplicações para web. Outras áreas de interesse inclui: web services e computação em nuvem.</string>
+
+    <string name="resumo_gilberto">Professor no Departamento de Estatística e Informática da UFRPE com experiência na área de Ciência da
+        Computação, com ênfase em Engenharia de Software.</string>
+
+</resources>
